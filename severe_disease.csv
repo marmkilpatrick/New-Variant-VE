@@ -1,0 +1,109 @@
+ref,Number on WHO doc,country,population,design,dom_var,history_covid,vaccine,Nabs_ratio,endpoint,VE,lower,upper,days_post_vax,all_time,eff_sample
+Polinkski et al.,93,USA,gen pop,Retrospective,Alpha,Excluded,Johnson and Johnson,0.470306513,Hospitalization,0.81,0.79,0.84,14+,1,1000
+Polinkski et al.,93,USA,gen pop,Retrospective,Delta,Excluded,Johnson and Johnson,0.470306513,Hospitalization,0.85,0.73,0.91,14+,1,65
+Grannis et al.,92,USA,gen pop,Test-Negative,Delta,Included,Johnson and Johnson,0.470306513,Hospitalization,0.6,0.31,0.77,14+,1,11
+Grannis et al.,92,USA,gen pop,Test-Negative,Delta,Included,Johnson and Johnson,0.470306513,Emergency/Urgent Care,0.65,0.56,0.72,14+,1,145
+Grannis et al.,92,USA,gen pop,Test-Negative,Delta,Included,Pfizer,2.372340426,Hospitalization,0.8,0.73,0.85,14+,1,190
+Grannis et al.,92,USA,gen pop,Test-Negative,Delta,Included,Pfizer,2.372340426,Emergency/Urgent Care,0.77,0.74,0.8,14+,1,600
+Grannis et al.,92,USA,gen pop,Test-Negative,Delta,Included,Moderna,4.133291219,Hospitalization,0.95,0.92,0.97,14+,1,300
+Grannis et al.,92,USA,gen pop,Test-Negative,Delta,Included,Moderna,4.133291219,Emergency/Urgent Care,0.92,0.89,0.93,14+,1,600
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Non-Voc,Excluded,Pfizer,2.372340426,Hospitalization or Death,0.97,0.88,0.99,14+,1,60
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Alpha,Excluded,Pfizer,2.372340426,Hospitalization or Death,0.96,0.94,0.97,14+,1,700
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Alpha,Excluded,Moderna,4.133291219,Hospitalization or Death,0.95,0.92,0.97,14+,1,300
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Alpha,Excluded,Astrazeneca,0.542372881,Hospitalization or Death,0.92,0.41,0.99,14+,1,4
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Beta,Excluded,Pfizer,2.372340426,Hospitalization or Death,0.92,0.39,0.99,14+,1,4
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Gamma,Excluded,Pfizer,2.372340426,Hospitalization or Death,0.94,0.59,0.99,14+,1,7
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Hospitalization or Death,0.98,0.96,0.99,14+,1,400
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Delta,Excluded,Moderna,4.133291219,Hospitalization or Death,0.98,0.93,1,14+,1,100
+Nasreen et al.,49#,Canada,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Hospitalization or Death,0.9,0.67,0.97,14+,1,15
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Pfizer,2.372340426,Hospitalization,0.98,0.97,0.98,14+,1,3230
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Pfizer,2.372340426,Hospitalization,0.98,0.98,0.99,28-55,0,3230
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Pfizer,2.372340426,Hospitalization,0.98,0.94,0.99,168+,0,125
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Moderna,4.133291219,Hospitalization,0.97,0.96,0.98,14+,1,1200
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Moderna,4.133291219,Hospitalization,0.99,0.96,1,28-55,0,125
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Moderna,4.133291219,Hospitalization,0.96,0.83,0.99,168+,0,30
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Astrazeneca,0.542372881,Hospitalization,0.94,0.9,0.96,14+,1,270
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Astrazeneca,0.542372881,Hospitalization,0.88,0.62,0.96,28-55,0,10
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,All,Excluded,Astrazeneca,0.542372881,Hospitalization,0.95,0.89,0.98,84+,0,96
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Hospitalization,0.98,0.97,0.98,14+,1,3230
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Hospitalization,0.99,0.98,0.99,28-55,0,1720
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Hospitalization,0.98,0.91,0.99,168+,0,40
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Moderna,4.133291219,Hospitalization,0.97,0.96,0.98,14+,1,1200
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Moderna,4.133291219,Hospitalization,0.99,0.96,1,28-55,0,125
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Moderna,4.133291219,Hospitalization,0.84,0.63,0.93,112-139,0,25
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Hospitalization,0.92,0.86,0.95,14+,1,160
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Hospitalization,0.84,0.51,0.95,28-55,0,15
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Hospitalization,0.92,0.81,0.97,84+,0,55
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.96,0.83,0.99,14+,1,30
+Skowronski et al.,114#,Canada,gen pop,Test-Negative,Gamma,Excluded,Pfizer,2.372340426,Hospitalization,0.95,0.83,0.99,14+,1,30
+Andrews et al. ,95#,England,gen pop,Test-Negative,Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.979,0.914,0.995,14+,1,40
+Andrews et al. ,95#,England,gen pop,Test-Negative,Alpha,Excluded,Pfizer,2.372340426,Death,0.963,0.899,0.986,14+,1,90
+Andrews et al. ,95#,England,gen pop,Test-Negative,Alpha,Excluded,Astrazeneca,0.542372881,Hospitalization,0.939,0.849,0.975,14+,1,62
+Andrews et al. ,95#,England,gen pop,Test-Negative,Alpha,Excluded,Astrazeneca,0.542372881,Hospitalization,0.938,0.847,0.975,70+,0,60
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Hospitalization,0.967,0.963,0.97,14+,1,8500
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Hospitalization,0.984,0.979,0.988,14-69,0,2700
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Hospitalization,0.927,0.903,0.946,140+,0,600
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Death,0.952,0.937,0.964,14+,1,1000
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Death,0.982,0.959,0.992,14-69,0,250
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Pfizer,2.372340426,Death,0.904,0.851,0.938,140+,0,200
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Hospitalization,0.93,0.924,0.935,14+,1,8000
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Hospitalization,0.952,0.946,0.956,14-69,0,7500
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Hospitalization,0.77,0.703,0.823,140+,0,220
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Death,0.927,0.907,0.943,14+,1,800
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Death,0.941,0.918,0.958,14-69,0,625
+Andrews et al. ,95#,England,gen pop,Test-Negative,Delta,Excluded,Astrazeneca,0.542372881,Death,0.787,0.527,0.904,140+,0,20
+Tang et al.,74#,Qatar,gen pop,Test-Negative,Delta,Included,Pfizer,2.372340426,"Severe, critical, or fatal disease",0.941,0.859,0.976,14+,1,75
+Tang et al.,74#,Qatar,gen pop,Test-Negative,Delta,Included,Moderna,4.133291219,"Severe, critical, or fatal disease",0.961,0.714,0.995,14+,1,11
+Tang et al.,74#,Qatar,gen pop,Test-Negative,Beta,Included,Pfizer,2.372340426,"Severe, critical, or fatal disease",0.927,0.815,0.971,14+,1,50
+Goldberg et al.,81,Israel,40-59,Retrospective,Delta,Excluded,Pfizer,2.372340426,Severe disease,0.98,0.94,0.99,109-159,0,125
+Goldberg et al.,81,Israel,40-59,Retrospective,Delta,Excluded,Pfizer,2.372340426,Severe disease,0.94,0.87,0.97,168-203,0,105
+Goldberg et al.,81,Israel,60+,Retrospective,Delta,Excluded,Pfizer,2.372340426,Severe disease,0.91,0.85,0.95,109-159,0,150
+Goldberg et al.,81,Israel,60+,Retrospective,Delta,Excluded,Pfizer,2.372340426,Severe disease,0.86,0.82,0.9,168-203,0,300
+Tartof et al.,80,USA,gen pop,Retrospective,All,Included,Pfizer,2.372340426,Hospitalization,0.9,0.89,0.92,7+,1,1550
+Tartof et al.,80,USA,gen pop,Retrospective,All,Included,Pfizer,2.372340426,Hospitalization,0.87,0.82,0.91,7-36,0,200
+Tartof et al.,80,USA,gen pop,Retrospective,All,Included,Pfizer,2.372340426,Hospitalization,0.88,0.82,0.92,157+,0,200
+Tartof et al.,80,USA,gen pop,Retrospective,Delta,Included,Pfizer,2.372340426,Hospitalization,0.93,0.84,0.96,7+,1,80
+Tartof et al.,80,USA,gen pop,Retrospective,Non-Voc,Included,Pfizer,2.372340426,Hospitalization,0.95,0.9,0.98,7+,1,127
+Olson et al.,108,USA,12-15,Test-Negative,Delta,Unknown,Pfizer,2.372340426,Hospitalization,0.91,0.74,0.97,14+,1,25
+Olson et al.,108,USA,12-16,Test-Negative,Delta,Unknown,Pfizer,2.372340426,Hospitalization,0.94,0.78,0.99,14+,1,25
+Bruxvoort et al.,104,USA,gen pop,Test-Negative,Delta,Unknown,Pfizer,2.372340426,Hospitalization,0.976,0.928,0.992,14+,1,100
+Jara et al.,50,Chile,gen pop,Prospective Cohort,Alpha/Gamma,Excluded,Coronavac,0.1686011,Hospitalization,0.875,0.867,0.882,14+,1,5000
+Jara et al.,50,Chile,gen pop,Prospective Cohort,Alpha/Gamma,Excluded,Coronavac,0.1686011,Hospitalization,0.903,0.891,0.914,14+,1,2500
+Jara et al.,50,Chile,gen pop,Prospective Cohort,Alpha/Gamma,Excluded,Coronavac,0.1686011,Hospitalization,0.863,0.845,0.879,14+,1,1500
+Bajema et al.,94,USA,gen pop,Test-Negative,All,Excluded,Pfizer,2.372340426,Hospitalization,0.834,0.74,0.894,14+,1,100
+Bajema et al.,94,USA,gen pop,Test-Negative,All,Excluded,Moderna,4.133291219,Hospitalization,0.916,0.835,0.957,14+,1,90
+Hitchings et al.,64,Brazil,60+,Test-Negative,Gamma,Included (except prev 90 days),Astrazeneca,0.542372881,Hospitalization,0.876,0.782,0.929,28+,1,100
+Hitchings et al.,64,Brazil,60+,Test-Negative,Gamma,Included (except prev 90 days),Astrazeneca,0.542372881,Death,0.936,0.819,0.977,28+,1,40
+Stowe,43#,UK,gen pop,Test-Negative,Alpha,Unknown,Pfizer,2.372340426,Hospitalization,0.95,0.78,0.99,14+,1,25
+Stowe,43#,UK,gen pop,Test-Negative,Alpha,Unknown,Astrazeneca,0.542372881,Hospitalization,0.86,0.53,0.96,14+,1,10
+Stowe,43#,UK,gen pop,Test-Negative,Delta,Unknown,Pfizer,2.372340426,Hospitalization,0.96,0.86,0.99,14+,1,40
+Stowe,43#,UK,gen pop,Test-Negative,Delta,Unknown,Astrazeneca,0.542372881,Hospitalization,0.92,0.75,0.97,14+,1,25
+Ranzani et al.,32#,Brazil,70+,Test-Negative,Gamma,Included,Coronavac,0.1686011,Hospitalization,0.555,0.465,0.629,14+,1,150
+Ranzani et al.,32#,Brazil,70+,Test-Negative,Gamma,Included,Coronavac,0.1686011,Death,0.612,0.489,0.705,14+,1,90
+Dagan et al. ,3,Israel,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.87,0.55,1,7+,1,10
+Dagan et al. ,3,Israel,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,Severe disease,0.92,0.75,1,7+,1,20
+Goldberg et al.,21,Israel,gen pop,Prospective Cohort,Orginal and Alpha,Included,Pfizer,2.372340426,Hospitalization,0.94,0.94,0.95,7+,1,9000
+Goldberg et al.,21,Israel,gen pop,Prospective Cohort,Orginal and Alpha,Included,Pfizer,2.372340426,Severe disease,0.94,0.94,0.95,7+,1,9000
+Goldberg et al.,21,Israel,gen pop,Prospective Cohort,Orginal and Alpha,Included,Pfizer,2.372340426,Death,0.94,0.93,0.95,7+,1,2200
+Haas et al.,26,Israel,gen pop,Retrospective,Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.972,0.968,0.975,7+,1,9400
+Haas et al.,26,Israel,gen pop,Retrospective,Alpha,Excluded,Pfizer,2.372340426,Severe disease,0.975,0.971,0.978,7+,1,7680
+Haas et al.,26,Israel,gen pop,Retrospective,Alpha,Excluded,Pfizer,2.372340426,Death,0.967,0.96,0.973,7+,1,3000
+Saciuk et al.,47,Israel,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.934,0.919,0.947,14+,1,1320
+Saciuk et al.,47,Israel,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,Death,0.911,0.865,0.941,14+,1,225
+"Flacco, Maria et al.",41,Italy,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.99,0.96,1,14+,1,125
+"Flacco, Maria et al.",41,Italy,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,Death,0.98,0.87,1,14+,1,27
+Abu-Raddad et al.,27#,Qatar,gen pop,Test-Negative,Alpha,Unknown,Pfizer,2.372340426,"Severe, critical, or fatal disease",1,0.82,1,14+,1,19
+Abu-Raddad et al.,27#,Qatar,gen pop,Test-Negative,Beta,Unknown,Pfizer,2.372340426,"Severe, critical, or fatal disease",1,0.74,1,14+,1,12
+Chemaitelly et al.,82#,Qatar,gen pop,Test-Negative,Alpha/Beta/Delta,Included,Pfizer,2.372340426,"Severe, critical, or fatal disease",0.968,0.939,0.983,26-63,0,290
+Chemaitelly et al.,82#,Qatar,gen pop,Test-Negative,Alpha/Beta/Delta,Included,Pfizer,2.372340426,"Severe, critical, or fatal disease",0.556,-0.443,0.863,175+,0,1
+Martinez-Bas,35,Spain,gen pop,Prospective Cohort,Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.94,0.6,0.99,14+,1,7
+Ismail et al.,31,UK,80+,Screening Method,Alpha,Included,Pfizer,2.372340426,Hospitalization,0.93,0.89,0.95,14+,1,300
+Pawlowski et al.,46,USA,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,Hospitalization,0.883,0.726,0.959,14+,1,35
+Pawlowski et al.,46,USA,gen pop,Retrospective,Orginal and Alpha,Excluded,Pfizer,2.372340426,ICU,1,0.187,1,14+,1,2
+Pawlowski et al.,46,USA,gen pop,Retrospective,Orginal and Alpha,Excluded,Moderna,4.133291219,Hospitalization,0.906,0.765,0.971,14+,1,40
+Pawlowski et al.,46,USA,gen pop,Retrospective,Orginal and Alpha,Excluded,Moderna,4.133291219,ICU,1,0.179,1,14+,1,2
+Puranik et al. ,72,USA,gen pop,Retrospective,Alpha and Delta,Excluded,Pfizer,2.372340426,Hospitalization,0.85,0.73,0.93,14+,1,55
+Puranik et al. ,72,USA,gen pop,Retrospective,Alpha and Delta,Excluded,Pfizer,2.372340426,ICU,0.87,0.46,0.986,14+,1,5
+Puranik et al. ,72,USA,gen pop,Retrospective,Alpha and Delta,Excluded,Moderna,4.133291219,Hospitalization,0.916,0.81,0.97,14+,1,50
+Puranik et al. ,72,USA,gen pop,Retrospective,Alpha and Delta,Excluded,Moderna,4.133291219,ICU,0.933,0.57,0.998,14+,1,7
+Chemaitelly et al.,52#,Qatar,gen pop,Test-Negative,Alpha and Beta,Unknown,Moderna,4.133291219,"Severe, critical, or fatal disease",0.895,0.188,0.987,14+,1,2

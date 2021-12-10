@@ -1,0 +1,55 @@
+Vaccine,Study,Nabs_Ratio,VE,Lower,Upper,Delta,Endpoint,RCT,x_effective,N_eff,Vacc_avg,Variant_Grouping,Groups
+Astra,Pouwels (delta),0.542372881,0.67,0.62,0.71,1,All infections,n,281,420,1,Delta - Vaccine estim.,Delta - infection
+Astra,Nasreen(delta),0.542372881,0.87,0.69,0.95,1,Symptomatic,n,28,32,0,Delta - Study estim.,Delta - symptomatic
+Astra,Lopez Bernal (delta),0.542372881,0.67,0.613,0.718,1,Symptomatic,n,221,330,0,Delta - Study estim.,Delta - symptomatic
+Astra,Total,0.542372881,0.687845304,0.6373344,0.7352515,1,Symptomatic,n,249,362,1,Delta - Vaccine estim.,Delta - symptomatic
+Astra,Eyre,0.542372881,0.16,0.12,0.21,1,Transmission,,39,243,1,Delta - Vaccine estim.,Delta - transmission
+Astra,Pouwels (alpha),0.542372881,0.79,0.56,0.9,0,All infections,n,19.75,25,0,non-Delta - Study estim.,non-Delta - infection
+Astra,Voysey,0.542372881,0.557,0.414,0.667,0,All infections,n,35.091,63,0,non-Delta - Study estim.,non-Delta - infection
+Astra,Pritchard,0.542372881,0.79,0.65,0.88,0,All infections,n,39.5,50,0,non-Delta - Study estim.,non-Delta - infection
+Astra,Total,0.542372881,0.683630435,0.596,0.758,0,All infections,n,94.341,138,1,non-Delta - Vaccine estim.,non-Delta - infection
+Astra,Khoury,0.542372881,0.6184,0.4068,0.7546,0,Symptomatic,y,21,34,0,non-Delta - Study estim.,non-Delta - symptomatic
+Astra,Nasreen (alpha),0.542372881,0.91,0.62,0.98,0,Symptomatic,n,20,22,0,non-Delta - Study estim.,non-Delta - symptomatic
+Astra,Lopez Bernal (alpha),0.542372881,0.745,0.684,0.794,0,Symptomatic,n,178,240,0,non-Delta - Study estim.,non-Delta - symptomatic
+Astra,Whitaker,0.542372881,0.78,0.697,0.84,0,Symptomatic,n,117,150,0,non-Delta - Study estim.,non-Delta - symptomatic
+Astra,Emary,0.542372881,0.746,0.416,0.889,0,Symptomatic,n,11,16,0,non-Delta - Study estim.,non-Delta - symptomatic
+Astra,Total,0.542372881,0.7510823,0.7090396,0.7898764,0,Symptomatic,n,347,462,1,non-Delta - Vaccine estim.,non-Delta - symptomatic
+Convalescent,Pouwels (delta),1,0.72,0.58,0.82,1,All infections,n,38,53,1,Delta - Vaccine estim.,Delta - infection
+Convalescent,Satwik,1,0.93,0.87,0.96,1,Symptomatic,n,157.17,169,1,Delta - Vaccine estim.,Delta - symptomatic
+Convalescent,Pouwels (alpha),1,0.6,0.5,0.68,0,All infections,n,75,125,0,non-Delta - Study estim.,non-Delta - infection
+Convalescent,Hall,1,0.83,76,87,0,All infections,n,139.44,168,0,non-Delta - Study estim.,non-Delta - infection
+Convalescent,Narrainen,1,0.973,80.5,99.6,0,All infections,n,24.325,25,0,non-Delta - Study estim.,non-Delta - infection
+Convalescent,Total,1,0.752,0.7,0.798,0,All infections,n,238.765,318,1,non-Delta - Vaccine estim.,non-Delta - infection
+Convalescent,Khoury,1,0.89,0.6558,0.976,0,Symptomatic,y,16,18,1,non-Delta - Vaccine estim.,non-Delta - symptomatic
+CoronaVac,Khoury,0.1686011,0.504,0.3575,0.6171,0,Symptomatic,y,30,60,1,non-Delta - Vaccine estim.,non-Delta - symptomatic
+JJ,Khoury,0.470306513,0.6734,0.5901,0.7397,0,Symptomatic,y,98,147,1,non-Delta - Vaccine estim.,non-Delta - symptomatic
+Moderna,Nasreen(delta),4.133291219,0.95,0.91,0.97,1,Symptomatic,n,209,220,0,Delta - Study estim.,Delta - symptomatic
+Moderna,Tang,4.133291219,0.858,0.706,0.939,1,Symptomatic,n,36,42,0,Delta - Study estim.,Delta - symptomatic
+Moderna,Total,4.133291219,0.935114504,0.8981429,0.9617508,1,Symptomatic,n,245,262,1,Delta - Vaccine estim.,Delta - symptomatic
+Moderna,Khoury,4.133291219,0.9408,0.8913,0.9678,0,Symptomatic,y,141,150,0,non-Delta - Study estim.,non-Delta - symptomatic
+Moderna,Chung,4.133291219,0.94,0.86,0.97,0,Symptomatic,n,105,112,0,non-Delta - Study estim.,non-Delta - symptomatic
+Moderna,Nasreen (non-VOC),4.133291219,0.96,0.85,0.99,0,Symptomatic,n,48,50,0,non-Delta - Study estim.,non-Delta - symptomatic
+Moderna,Nasreen (alpha),4.133291219,0.92,0.88,0.95,0,Symptomatic,n,207,225,0,non-Delta - Study estim.,non-Delta - symptomatic
+Moderna,Chemaitelly,4.133291219,0.986,0.92,1,0,Symptomatic,n,69,70,0,non-Delta - Study estim.,non-Delta - symptomatic
+Moderna,Total,4.133291219,0.939044481,0.9169566,0.9567222,0,Symptomatic,n,570,607,1,non-Delta - Vaccine estim.,non-Delta - symptomatic
+Novavac,Khoury,3.973550356,0.9566,0.6786,0.9941,0,Symptomatic,y,23,25,1,non-Delta - Vaccine estim.,non-Delta - symptomatic
+Pfizer,Pouwels (delta),2.372340426,0.8,0.77,0.83,1,All infections,n,624,780,1,Delta - Vaccine estim.,Delta - infection
+Pfizer,Nasreen (delta),2.372340426,0.92,0.9,0.94,1,Symptomatic,n,552,600,0,Delta - Study estim.,Delta - symptomatic
+Pfizer,Tang,2.372340426,0.561,0.414,0.672,1,Symptomatic,n,35,64,0,Delta - Study estim.,Delta - symptomatic
+Pfizer,Lopez Bernal (delta),2.372340426,0.88,0.853,0.901,1,Symptomatic,n,660,750,0,Delta - Study estim.,Delta - symptomatic
+Pfizer,Total,2.372340426,0.881895332,0.8639221,0.8982637,1,Symptomatic,n,1247,1414,1,Delta - Vaccine estim.,Delta - symptomatic
+Pfizer,Eyre,2.372340426,0.38,0.28,0.47,1,Transmission,,41,109,1,Delta - Vaccine estim.,Delta - transmission
+Pfizer,Pouwels (alpha),2.372340426,0.78,0.68,0.84,0,All infections,n,78,100,0,non-Delta - Study estim.,non-Delta - infection
+Pfizer,Hall,2.372340426,0.86,0.76,0.97,0,All infections,n,42.14,49,0,non-Delta - Study estim.,non-Delta - infection
+Pfizer,Pritchard,2.372340426,0.8,0.73,0.85,0,All infections,n,148,185,0,non-Delta - Study estim.,non-Delta - infection
+Pfizer,Total,2.372340426,0.802814371,0.7555863,0.8437485,0,All infections,n,268.14,334,1,non-Delta - Vaccine estim.,non-Delta - infection
+Pfizer,Khoury,2.372340426,0.9503,0.8989,0.9755,0,Symptomatic,y,190,200,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Chung,2.372340426,0.91,0.88,0.93,0,Symptomatic,n,500,550,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Nasreen (non-VOC),2.372340426,0.93,0.88,0.95,0,Symptomatic,n,195,210,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Nasreen (alpha),2.372340426,0.89,0.87,0.9,0,Symptomatic,n,1280,1440,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Dagan,2.372340426,0.94,0.87,0.98,0,Symptomatic,n,90,96,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Martinez-Bas,2.372340426,0.82,0.73,0.88,0,Symptomatic,n,90,110,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Lopez Bernal (alpha),2.372340426,0.937,0.916,0.953,0,Symptomatic,n,674,720,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Whitaker,2.372340426,0.933,0.858,0.968,0,Symptomatic,n,93,100,0,non-Delta - Study estim.,non-Delta - symptomatic
+Pfizer,Total,2.372340426,0.908347928,0.8981885,0.917804,0,Symptomatic,n,3112,3426,1,non-Delta - Vaccine estim.,non-Delta - symptomatic
+Sputnik,Khoury,1.407142857,0.9155,0.8537,0.9512,0,Symptomatic,y,128,140,1,non-Delta - Vaccine estim.,non-Delta - symptomatic

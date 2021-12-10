@@ -1,0 +1,16 @@
+Study,non-Delta virus,Vaccine,Ratio
+Van gils,D614G,Pfizer,4.5
+Van gils,D614G,Astrazeneca,4.5
+Falsey et al NEJM 18_55,WT,Pfizer,1.282051282
+Davis et al ,Wuhan,Pfizer,11.3
+Davis et al ,Wuhan,Astrazeneca,4.01
+Richardson et al ,WT,Pfizer,2.1
+Richardson et al ,WT,Astrazeneca,2.1
+Wall et al Lancet ,WT,Pfizer,5.8
+Wall et al Lancet ,WT,Astrazeneca,8
+Havervall et al medRxiv,WT,Pfizer,1.176470588
+Havervall et al medRxiv,WT,Astrazeneca,1.219512195
+Planas et al Nature ,D614G,Pfizer,2
+Planas et al Nature ,D614G,Astrazeneca,5
+Van gils,D614G,Conv,2.1
+Planas et al Nature ,D614G,Conv,2.1

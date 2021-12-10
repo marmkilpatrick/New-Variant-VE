@@ -1,0 +1,16 @@
+ref,Number on WHO doc,country,population,design,Variant,history_covid,vaccine,Nabs_ratio,endpoint,VE,lower,upper,days_post_vax,eff_sample
+Chemaitelly,42,Qatar,general pop,Retrospective cohort,Alpha,excluded,Moderna,4.133291219,infection ,1,0.825,1,14+,19
+Chemaitelly,42,Qatar,general pop,Test negative case-control,Beta,unknown,Moderna,4.133291219,infection ,0.96,0.909,0.982,14+,122
+Haas,20,Israel ,general pop,Retrospective cohort,Alpha,excluded,Pfizer,2.372340426,infection ,0.953,0.949,0.957,>7,8976
+Sheikh,33,Scotland,general pop,Test negative case-control,Alpha,unknown,Pfizer,2.372340426,infection ,0.92,0.9,0.93,14+,1191
+Abu-Raddad,21,Qatar,general pop,Test negative case-control,Alpha,unknown,Pfizer,2.372340426,infection ,0.9,0.86,0.92,>14,385
+Chemaitelly,42,Qatar,general pop,Retrospective cohort,Beta,excluded,Moderna,4.133291219,infection ,0.878,0.734,0.955,14+,41
+Abu-Raddad,21,Qatar,general pop,Retrospective cohort,Alpha,unknown,Pfizer,2.372340426,infection ,0.87,0.82,0.91,>14,209
+Tang,58,Qatar,general pop,Test negative case-control,Delta,included,Moderna,4.133291219,infection ,0.861,0.78,0.913,14+,117
+Sheikh,33,Scotland,general pop,Test negative case-control,Delta,unknown,Pfizer,2.372340426,infection ,0.79,0.75,0.82,14+,520
+Abu-Raddad,21,Qatar,general pop,Test negative case-control,Beta,unknown,Pfizer,2.372340426,infection ,0.75,0.71,0.79,>14,459
+Sheikh,33,Scotland,general pop,Test negative case-control,Alpha,unknown,Astrazeneca,0.542372881,infection ,0.73,0.66,0.78,14+,223
+Abu-Raddad,21,Qatar,general pop,Retrospective cohort,Beta,unknown,Pfizer,2.372340426,infection ,0.72,0.66,0.77,>14,261
+Martinez-Baz,28,Spain,general pop,Prospective cohort,Alpha,excluded,Pfizer,2.372340426,infection ,0.65,0.56,0.73,14+,126
+Sheikh,33,Scotland,general pop,Test negative case-control,Delta,unknown,Astrazeneca,0.542372881,infection ,0.6,0.53,0.66,14+,233
+Tang,58,Qatar,general pop,Test negative case-control,Delta,included,Pfizer,2.372340426,infection ,0.596,0.507,0.669,14+,148
