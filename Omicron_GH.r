@@ -78,6 +78,7 @@ boost_ratio=.71*1754/497+.29*1318/538
 #Moderna boosting @28d relative to post 2nd dose from Chu et al medRxiv 0,181, 209: 1268, 150.2, 1951.7
 Mod_boost_ratio=1951.7/1268
 Mod_wane_ratio=150.2/1268
+Nabs_Pfiz_WT=2.3723404;Nabs_Mod_WT=4.1332912
 
 #Predicted hospitalized omicron
 p_h_o=data.frame(rel_Nabs=c(Nabs_Pfiz_WT/40*wane_ratio,Nabs_Pfiz_WT/40,Nabs_Pfiz_WT/40*boost_ratio,Nabs_Pfiz_WT/2.744457*wane_ratio,Nabs_Pfiz_WT/2.744457,Nabs_Pfiz_WT/2.744457*boost_ratio,Nabs_Pfiz_WT*wane_ratio,Nabs_Pfiz_WT,Nabs_Pfiz_WT*boost_ratio,
@@ -107,7 +108,6 @@ m_symp_p=m_symp[m_symp$vaccine=="Pfizer",]
 v1=glm(VE~log2(rel_Nabs),data=m_symp,family=binomial,weights=eff_sample);summary(v1)
 
 #predicted values for symptomatic disease for Omicron
-Nabs_Pfiz_WT=2.3723404;Nabs_Mod_WT=4.1332912
 p_s_o=data.frame(rel_Nabs=c(Nabs_Pfiz_WT/40*wane_ratio,Nabs_Pfiz_WT/40,Nabs_Pfiz_WT/40*boost_ratio,Nabs_Pfiz_WT/2.744457*wane_ratio,Nabs_Pfiz_WT/2.744457,Nabs_Pfiz_WT/2.744457*boost_ratio,Nabs_Pfiz_WT*wane_ratio,Nabs_Pfiz_WT,Nabs_Pfiz_WT*boost_ratio,
                             4.1332912/40*Mod_wane_ratio,4.1332912/40,4.1332912/40*Mod_boost_ratio,4.1332912/2.744457*Mod_wane_ratio,4.1332912/2.744457,4.1332912/2.744457*Mod_boost_ratio,4.1332912*Mod_wane_ratio,4.1332912,4.1332912*Mod_boost_ratio),
                  VE=predict(v1,newdata=data.frame(rel_Nabs=c(Nabs_Pfiz_WT/40*wane_ratio,Nabs_Pfiz_WT/40,Nabs_Pfiz_WT/40*boost_ratio,Nabs_Pfiz_WT/2.744457*wane_ratio,Nabs_Pfiz_WT/2.744457,Nabs_Pfiz_WT/2.744457*boost_ratio,Nabs_Pfiz_WT*wane_ratio,Nabs_Pfiz_WT,Nabs_Pfiz_WT*boost_ratio,
