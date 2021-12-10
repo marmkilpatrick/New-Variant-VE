@@ -1,5 +1,5 @@
 lapply(c("ggplot2","ggthemes","tidyverse","dplyr","lme4","mgcv"),require,character.only=T) #load packages
-setwd("c:/marm/research/covid-19/omicron/")
+setwd("") #set working directory
 FC=read.csv("fold_figure.csv") #load VE, nAbs data
 
 FC2=aggregate(fold_red~Variant+Study,data=FC,FUN=mean) #average across estimates w/in a study
