@@ -1,0 +1,87 @@
+Study,ID,Variant,vaccine,Nabs_ratio,endpoint,VE,lower,upper
+Skowronski et al.,1,Gamma,Pfizer,2.372340426,Hospitalization,0.95,0.83,0.99
+Ranzani et al.,2,Gamma,Johnson and Johnson,0.470306513,Hospitalization,0.729,0.351,0.911
+Nasreen et al.,3,Gamma,Pfizer,2.372340426,Hospitalization,0.94,0.59,0.99
+Nasreen et al.,4,Gamma,Pfizer,2.372340426,Symptomatic disease,0.88,0.73,0.94
+Polinkski et al.,5,Delta,Johnson and Johnson,0.470306513,Hospitalization,0.85,0.73,0.91
+Grannis et al.,6,Delta,Johnson and Johnson,0.470306513,Hospitalization,0.6,0.31,0.77
+Grannis et al.,7,Delta,Pfizer,2.372340426,Hospitalization,0.8,0.73,0.85
+Grannis et al.,8,Delta,Moderna,4.133291219,Hospitalization,0.95,0.92,0.97
+Skowronski et al.,9,Delta,Pfizer,2.372340426,Hospitalization,0.98,0.97,0.98
+Skowronski et al.,10,Delta,Moderna,4.133291219,Hospitalization,0.97,0.96,0.98
+Skowronski et al.,11,Delta,Astrazeneca,0.542372881,Hospitalization,0.92,0.86,0.95
+Andrews et al.,12,Delta,Pfizer,2.372340426,Hospitalization,0.967,0.963,0.97
+Andrews et al.,13,Delta,Astrazeneca,0.542372881,Hospitalization,0.93,0.924,0.935
+Tartof et al.,14,Delta,Pfizer,2.372340426,Hospitalization,0.93,0.84,0.96
+Bruxvoort et al.,15,Delta,Pfizer,2.372340426,Hospitalization,0.976,0.928,0.992
+Stowe,16,Delta,Pfizer,2.372340426,Hospitalization,0.96,0.86,0.99
+Stowe,17,Delta,Astrazeneca,0.542372881,Hospitalization,0.92,0.75,0.97
+Nasreen et al.,18,Delta,Pfizer,2.372340426,Hospitalization,0.98,0.96,0.99
+Nasreen et al.,19,Delta,Moderna,4.133291219,Hospitalization,0.98,0.93,1
+Nasreen et al.,20,Delta,Astrazeneca,0.542372881,Hospitalization,0.9,0.67,0.97
+Nasreen et al.,21,Delta,Pfizer,2.372340426,Symptomatic disease,0.92,0.9,0.94
+Nasreen et al.,22,Delta,Moderna,4.133291219,Symptomatic disease,0.95,0.91,0.97
+Nasreen et al.,23,Delta,Astrazeneca,0.542372881,Symptomatic disease,0.87,0.69,0.95
+Lopez-Bernal et al.,24,Delta,Pfizer,2.372340426,Symptomatic disease,0.88,0.853,0.901
+Tang,25,Delta,Pfizer,2.372340426,Symptomatic disease,0.444,0.37,0.509
+Andrews et al.,26,Delta,Pfizer,2.372340426,Symptomatic disease,0.835,0.833,0.836
+Nordstrom et al.,27,Delta,Pfizer,2.372340426,Symptomatic disease,0.78,0.78,0.79
+Tang,28,Delta,Moderna,4.133291219,Symptomatic disease,0.739,0.659,0.799
+Lopez Bernal2,29,Delta,Astrazeneca,0.542372881,Symptomatic disease,0.67,0.613,0.718
+Tang,31,Delta,Moderna,4.133291219,documented infection,0.861,0.78,0.913
+Sheikh,32,Delta,Pfizer,2.372340426,documented infection,0.79,0.75,0.82
+Sheikh,33,Delta,Astrazeneca,0.542372881,documented infection,0.6,0.53,0.66
+Tang,34,Delta,Pfizer,2.372340426,documented infection,0.596,0.507,0.669
+Pouwels (delta),35,Delta,Pfizer,2.372340426,All infections,0.8,0.77,0.83
+Pouwels (delta),36,Delta,Astrazeneca,0.542372881,All infections,0.67,0.62,0.71
+Eyre,37,Delta,Pfizer,2.372340426,Transmission,0.38,0.28,0.47
+Eyre,38,Delta,Astrazeneca,0.542372881,Transmission,0.16,0.12,0.21
+Sadoff,39,D614G,Johnson and Johnson,0.470306513,Symptomatic disease,0.66,0.55,0.75
+Voysey,40,D614G,Astrazeneca,0.542372881,Symptomatic disease,0.67,0.57,0.74
+Tanriover,41,D614G,Sinovac,0.1686011,Symptomatic disease,0.84,0.65,0.92
+Soeriaatmadja,42,D614G,Sinovac,0.1686011,Symptomatic disease,0.65,0.2,0.85
+Baden,43,D614G,Moderna,4.133291219,Symptomatic disease,0.94,0.89,0.97
+Novavax,44,D614G,Novavax,3.973550356,Symptomatic disease,0.9,0.83,0.95
+Polack,45,D614G,Pfizer,2.372340426,Symptomatic disease,0.95,0.9,0.98
+Logunov,46,D614G,Sputnik V,1.4071429,Symptomatic disease,0.92,0.86,0.95
+Voysey,47,D614G,Astrazeneca,0.542372881,All infections,0.557,0.414,0.667
+Nasreen et al.,48,Beta,Pfizer,2.372340426,Hospitalization,0.92,0.39,0.99
+Nasreen et al.,49,Beta,Pfizer,2.372340426,Symptomatic disease,0.87,0.08,0.98
+Thomas,50,Beta,Pfizer,2.372340426,Symptomatic disease,1,0.54,1
+Sadoff,51,Beta,Johnson and Johnson,0.470306513,Symptomatic disease,0.64,0.41,0.79
+Shinde,52,Beta,Novavax,3.973550356,Symptomatic disease,0.51,0,0.76
+Madhi,53,Beta,Astrazeneca,0.542372881,Symptomatic disease,0.1,-0.77,0.55
+Chemaitelly,54,Beta,Moderna,4.133291219,documented infection,0.96,0.909,0.982
+Chemaitelly,55,Beta,Moderna,4.133291219,documented infection,0.878,0.734,0.955
+Abu-Raddad,56,Beta,Pfizer,2.372340426,documented infection,0.75,0.71,0.79
+Abu-Raddad,57,Beta,Pfizer,2.372340426,documented infection,0.72,0.66,0.77
+Polinkski et al.,58,Alpha,Johnson and Johnson,0.470306513,Hospitalization,0.81,0.79,0.84
+Skowronski et al.,59,Alpha,Pfizer,2.372340426,Hospitalization,0.96,0.83,0.99
+Andrews et al.,60,Alpha,Pfizer,2.372340426,Hospitalization,0.979,0.914,0.995
+Andrews et al.,61,Alpha,Astrazeneca,0.542372881,Hospitalization,0.939,0.849,0.975
+Stowe,62,Alpha,Pfizer,2.372340426,Hospitalization,0.95,0.78,0.99
+Stowe,63,Alpha,Astrazeneca,0.542372881,Hospitalization,0.86,0.53,0.96
+Haas et al.,64,Alpha,Pfizer,2.372340426,Hospitalization,0.972,0.968,0.975
+Martinez-Bas,65,Alpha,Pfizer,2.372340426,Hospitalization,0.94,0.6,0.99
+Nasreen et al.,66,Alpha,Pfizer,2.372340426,Hospitalization,0.96,0.94,0.97
+Nasreen et al.,67,Alpha,Moderna,4.133291219,Hospitalization,0.95,0.92,0.97
+Nasreen et al.,68,Alpha,Astrazeneca,0.542372881,Hospitalization,0.92,0.41,0.99
+Haas et al.,69,Alpha,Pfizer,2.372340426,Symptomatic disease,0.97,0.967,0.972
+Martinez-Bas et al.,70,Alpha,Pfizer,2.372340426,Symptomatic disease,0.82,0.73,0.88
+Nasreen et al.,71,Alpha,Pfizer,2.372340426,Symptomatic disease,0.89,0.87,0.9
+Nasreen et al.,72,Alpha,Moderna,4.133291219,Symptomatic disease,0.92,0.88,0.95
+Nasreen et al.,73,Alpha,Astrazeneca,0.542372881,Symptomatic disease,0.91,0.62,0.98
+Lopez-Bernal et al.,74,Alpha,Pfizer,2.372340426,Symptomatic disease,0.937,0.916,0.953
+Andrews et al.,75,Alpha,Pfizer,2.372340426,Symptomatic disease,0.95,0.938,0.959
+Lopez Bernal2,76,Alpha,Astrazeneca,0.542372881,Symptomatic disease,0.745,0.684,0.794
+Heath,77,Alpha,Novavax,3.973550356,Symptomatic disease,0.83,0.71,0.94
+Emary,78,Alpha,Astrazeneca,0.542372881,Symptomatic disease,0.7,0.44,0.85
+Chemaitelly,79,Alpha,Moderna,4.133291219,documented infection,1,0.825,1
+Haas,80,Alpha,Pfizer,2.372340426,documented infection,0.953,0.949,0.957
+Sheikh,81,Alpha,Pfizer,2.372340426,documented infection,0.92,0.9,0.93
+Abu-Raddad,82,Alpha,Pfizer,2.372340426,documented infection,0.9,0.86,0.92
+Abu-Raddad,83,Alpha,Pfizer,2.372340426,documented infection,0.87,0.82,0.91
+Sheikh,84,Alpha,Astrazeneca,0.542372881,documented infection,0.73,0.66,0.78
+Martinez-Baz,85,Alpha,Pfizer,2.372340426,documented infection,0.65,0.56,0.73
+Pouwels (alpha),86,Alpha,Astrazeneca,0.542372881,All infections,0.79,0.56,0.9
+Pouwels (alpha),87,Alpha,Pfizer,2.372340426,All infections,0.78,0.68,0.84
